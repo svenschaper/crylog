@@ -1,0 +1,2 @@
+# crylog
+CryptoLogger for Go
