@@ -1,4 +1,4 @@
-# Crykig
+# Crylog
 
 <img align="right" src="https://img.shields.io/badge/License-MIT-blue.svg">
 
